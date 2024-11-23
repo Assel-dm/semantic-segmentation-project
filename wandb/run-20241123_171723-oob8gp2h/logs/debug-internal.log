@@ -1,0 +1,19 @@
+{"time":"2024-11-23T17:17:23.8656808+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-23T17:17:23.8656808+07:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\axelf\\Documents\\HUST\\Deep Learning\\semantic-segmentation-project\\wandb\\run-20241123_171723-oob8gp2h\\logs\\debug-core.log"}
+{"time":"2024-11-23T17:17:24.0508357+07:00","level":"INFO","msg":"created new stream","id":"oob8gp2h"}
+{"time":"2024-11-23T17:17:24.0509645+07:00","level":"INFO","msg":"stream: started","id":"oob8gp2h"}
+{"time":"2024-11-23T17:17:24.0509645+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"oob8gp2h"}
+{"time":"2024-11-23T17:17:24.0515876+07:00","level":"INFO","msg":"sender: started","stream_id":"oob8gp2h"}
+{"time":"2024-11-23T17:17:24.0515876+07:00","level":"INFO","msg":"handler: started","stream_id":"oob8gp2h"}
+{"time":"2024-11-23T17:17:24.5580974+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T17:17:25.5962822+07:00","level":"INFO","msg":"stream: closing","id":"oob8gp2h"}
+{"time":"2024-11-23T17:17:25.5962822+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T17:17:25.5972032+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T17:17:25.9330764+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-23T17:17:25.9332376+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-23T17:17:25.9332376+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-23T17:17:26.541281+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T17:17:27.0342337+07:00","level":"INFO","msg":"handler: closed","stream_id":"oob8gp2h"}
+{"time":"2024-11-23T17:17:27.0342337+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"oob8gp2h"}
+{"time":"2024-11-23T17:17:27.0342337+07:00","level":"INFO","msg":"sender: closed","stream_id":"oob8gp2h"}
+{"time":"2024-11-23T17:17:27.0353432+07:00","level":"INFO","msg":"stream: closed","id":"oob8gp2h"}

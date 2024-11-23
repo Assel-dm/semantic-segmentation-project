@@ -1,0 +1,26 @@
+2024-11-23 20:42:59,529 INFO    MainThread:44656 [wandb_setup.py:_flush():79] Current SDK version is 0.18.7
+2024-11-23 20:42:59,529 INFO    MainThread:44656 [wandb_setup.py:_flush():79] Configure stats pid to 44656
+2024-11-23 20:42:59,530 INFO    MainThread:44656 [wandb_setup.py:_flush():79] Loading settings from C:\Users\axelf\.config\wandb\settings
+2024-11-23 20:42:59,530 INFO    MainThread:44656 [wandb_setup.py:_flush():79] Loading settings from C:\Users\axelf\Documents\HUST\Deep Learning\semantic-segmentation-project\wandb\settings
+2024-11-23 20:42:59,530 WARNING MainThread:44656 [wandb_setup.py:_flush():79] Unknown environment variable: WANDB_SERVICE
+2024-11-23 20:42:59,530 INFO    MainThread:44656 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-23 20:42:59,532 INFO    MainThread:44656 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-23 20:42:59,532 INFO    MainThread:44656 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-23 20:42:59,532 INFO    MainThread:44656 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-23 20:42:59,532 INFO    MainThread:44656 [wandb_init.py:_log_setup():533] Logging user logs to C:\Users\axelf\Documents\HUST\Deep Learning\semantic-segmentation-project\wandb\run-20241123_204259-phqwq7y4\logs\debug.log
+2024-11-23 20:42:59,533 INFO    MainThread:44656 [wandb_init.py:_log_setup():534] Logging internal logs to C:\Users\axelf\Documents\HUST\Deep Learning\semantic-segmentation-project\wandb\run-20241123_204259-phqwq7y4\logs\debug-internal.log
+2024-11-23 20:42:59,533 INFO    MainThread:44656 [wandb_init.py:init():619] calling init triggers
+2024-11-23 20:42:59,534 INFO    MainThread:44656 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {'epochs': 30, 'batch_size': 8, 'learning_rate': 1e-05, 'optimizer': 'Adam', 'loss_function': 'BCEWithLogitsLoss'}
+2024-11-23 20:42:59,534 INFO    MainThread:44656 [wandb_init.py:init():669] starting backend
+2024-11-23 20:42:59,534 INFO    MainThread:44656 [wandb_init.py:init():673] sending inform_init request
+2024-11-23 20:42:59,544 INFO    MainThread:44656 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-11-23 20:42:59,548 INFO    MainThread:44656 [wandb_init.py:init():686] backend started and connected
+2024-11-23 20:42:59,562 INFO    MainThread:44656 [wandb_init.py:init():781] updated telemetry
+2024-11-23 20:42:59,565 INFO    MainThread:44656 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-23 20:43:00,933 INFO    MainThread:44656 [wandb_init.py:init():867] starting run threads in backend
+2024-11-23 20:43:01,988 INFO    MainThread:44656 [wandb_run.py:_console_start():2456] atexit reg
+2024-11-23 20:43:01,988 INFO    MainThread:44656 [wandb_run.py:_redirect():2305] redirect: wrap_raw
+2024-11-23 20:43:01,989 INFO    MainThread:44656 [wandb_run.py:_redirect():2370] Wrapping output streams.
+2024-11-23 20:43:01,989 INFO    MainThread:44656 [wandb_run.py:_redirect():2395] Redirects installed.
+2024-11-23 20:43:02,003 INFO    MainThread:44656 [wandb_init.py:init():911] run started, returning control to user process

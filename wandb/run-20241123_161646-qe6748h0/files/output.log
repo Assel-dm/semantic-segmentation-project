@@ -1,0 +1,30 @@
+Epoch 1/10, Train Loss: 0.6347
+Validation Loss: 0.4625
+Saved best model at epoch 1 with validation loss: 0.4625
+Epoch 2/10, Train Loss: 0.3675
+Validation Loss: 0.3277
+Saved best model at epoch 2 with validation loss: 0.3277
+Epoch 3/10, Train Loss: 0.2748
+Validation Loss: 0.2451
+Saved best model at epoch 3 with validation loss: 0.2451
+Epoch 4/10, Train Loss: 0.2168
+Validation Loss: 0.1966
+Saved best model at epoch 4 with validation loss: 0.1966
+Epoch 5/10, Train Loss: 0.1734
+Validation Loss: 0.1569
+Saved best model at epoch 5 with validation loss: 0.1569
+Epoch 6/10, Train Loss: 0.1390
+Validation Loss: 0.1337
+Saved best model at epoch 6 with validation loss: 0.1337
+Epoch 7/10, Train Loss: 0.1138
+Validation Loss: 0.1100
+Saved best model at epoch 7 with validation loss: 0.1100
+Epoch 8/10, Train Loss: 0.0973
+Validation Loss: 0.0941
+Saved best model at epoch 8 with validation loss: 0.0941
+Epoch 9/10, Train Loss: 0.0852
+Validation Loss: 0.0848
+Saved best model at epoch 9 with validation loss: 0.0848
+Epoch 10/10, Train Loss: 0.0762
+Validation Loss: 0.0766
+Saved best model at epoch 10 with validation loss: 0.0766

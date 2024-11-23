@@ -1,0 +1,21 @@
+{"time":"2024-11-23T18:03:12.150346+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-23T18:03:12.1504277+07:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\axelf\\Documents\\HUST\\Deep Learning\\semantic-segmentation-project\\wandb\\run-20241123_180312-rpr9pl8d\\logs\\debug-core.log"}
+{"time":"2024-11-23T18:03:12.2947674+07:00","level":"INFO","msg":"created new stream","id":"rpr9pl8d"}
+{"time":"2024-11-23T18:03:12.2948255+07:00","level":"INFO","msg":"stream: started","id":"rpr9pl8d"}
+{"time":"2024-11-23T18:03:12.2948255+07:00","level":"INFO","msg":"sender: started","stream_id":"rpr9pl8d"}
+{"time":"2024-11-23T18:03:12.2948255+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"rpr9pl8d"}
+{"time":"2024-11-23T18:03:12.2948255+07:00","level":"INFO","msg":"handler: started","stream_id":"rpr9pl8d"}
+{"time":"2024-11-23T18:03:17.2640659+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T18:06:57.264397+07:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2024-11-23T18:06:57.2864476+07:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 65120"}
+{"time":"2024-11-23T18:22:30.5620264+07:00","level":"INFO","msg":"stream: closing","id":"rpr9pl8d"}
+{"time":"2024-11-23T18:22:30.5625566+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T18:22:30.7604984+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T18:22:31.2931093+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-23T18:22:31.2931093+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-23T18:22:31.2931093+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-23T18:22:32.4703385+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T18:22:32.9534365+07:00","level":"INFO","msg":"handler: closed","stream_id":"rpr9pl8d"}
+{"time":"2024-11-23T18:22:32.9534365+07:00","level":"INFO","msg":"sender: closed","stream_id":"rpr9pl8d"}
+{"time":"2024-11-23T18:22:32.9534365+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rpr9pl8d"}
+{"time":"2024-11-23T18:22:32.9544742+07:00","level":"INFO","msg":"stream: closed","id":"rpr9pl8d"}

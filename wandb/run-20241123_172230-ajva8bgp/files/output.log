@@ -1,0 +1,25 @@
+c:\Users\axelf\Documents\HUST\Deep Learning\semantic-segmentation-project\evaluate.py:47: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load("checkpoints/best_model.pth"))
+Traceback (most recent call last):
+  File "c:\Users\axelf\Documents\HUST\Deep Learning\semantic-segmentation-project\evaluate.py", line 64, in <module>
+    main()
+  File "c:\Users\axelf\Documents\HUST\Deep Learning\semantic-segmentation-project\evaluate.py", line 60, in main
+    mean_dice = mean_dice_coefficient(model, val_loader, device)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\axelf\Documents\HUST\Deep Learning\semantic-segmentation-project\evaluate.py", line 28, in mean_dice_coefficient
+    for images, masks in data_loader:
+  File "C:\Users\axelf\anaconda_mashallah\Lib\site-packages\torch\utils\data\dataloader.py", line 630, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\axelf\anaconda_mashallah\Lib\site-packages\torch\utils\data\dataloader.py", line 673, in _next_data
+    data = self._dataset_fetcher.fetch(index)  # may raise StopIteration
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\axelf\anaconda_mashallah\Lib\site-packages\torch\utils\data\_utils\fetch.py", line 52, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\axelf\anaconda_mashallah\Lib\site-packages\torch\utils\data\_utils\fetch.py", line 52, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+            ~~~~~~~~~~~~^^^^^
+  File "c:\Users\axelf\Documents\HUST\Deep Learning\semantic-segmentation-project\train.py", line 40, in __getitem__
+    raise FileNotFoundError(f"Could not read image file: {image_path}")
+FileNotFoundError: Could not read image file: d

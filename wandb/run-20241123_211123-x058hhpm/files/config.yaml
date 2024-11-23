@@ -1,0 +1,49 @@
+_wandb:
+    value:
+        cli_version: 0.18.7
+        m: []
+        python_version: 3.11.5
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 49
+                - 53
+                - 55
+                - 63
+                - 74
+                - 80
+            "2":
+                - 1
+                - 5
+                - 41
+                - 49
+                - 53
+                - 55
+                - 63
+                - 74
+                - 80
+            "3":
+                - 13
+                - 16
+                - 23
+                - 55
+            "4": 3.11.5
+            "5": 0.18.7
+            "8":
+                - 2
+                - 3
+                - 5
+            "12": 0.18.7
+            "13": windows-amd64
+batch_size:
+    value: 8
+epochs:
+    value: 30
+learning_rate:
+    value: 1e-05
+loss_function:
+    value: BCEWithLogitsLoss
+optimizer:
+    value: Adam

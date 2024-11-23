@@ -1,0 +1,21 @@
+{"time":"2024-11-23T18:08:14.2534921+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-23T18:08:14.2534921+07:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\axelf\\Documents\\HUST\\Deep Learning\\semantic-segmentation-project\\wandb\\run-20241123_180814-sioxl9g7\\logs\\debug-core.log"}
+{"time":"2024-11-23T18:08:14.4140524+07:00","level":"INFO","msg":"created new stream","id":"sioxl9g7"}
+{"time":"2024-11-23T18:08:14.414134+07:00","level":"INFO","msg":"stream: started","id":"sioxl9g7"}
+{"time":"2024-11-23T18:08:14.414134+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"sioxl9g7"}
+{"time":"2024-11-23T18:08:14.414134+07:00","level":"INFO","msg":"sender: started","stream_id":"sioxl9g7"}
+{"time":"2024-11-23T18:08:14.414134+07:00","level":"INFO","msg":"handler: started","stream_id":"sioxl9g7"}
+{"time":"2024-11-23T18:08:14.8008609+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T18:12:04.8015019+07:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2024-11-23T18:12:04.8219826+07:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 71244"}
+{"time":"2024-11-23T18:22:30.5595128+07:00","level":"INFO","msg":"stream: closing","id":"sioxl9g7"}
+{"time":"2024-11-23T18:22:30.5595128+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T18:22:30.6972221+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T18:22:31.1914617+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-23T18:22:31.1919878+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-23T18:22:31.1919878+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-23T18:22:32.2388017+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T18:22:32.7986169+07:00","level":"INFO","msg":"handler: closed","stream_id":"sioxl9g7"}
+{"time":"2024-11-23T18:22:32.7986169+07:00","level":"INFO","msg":"sender: closed","stream_id":"sioxl9g7"}
+{"time":"2024-11-23T18:22:32.7986169+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"sioxl9g7"}
+{"time":"2024-11-23T18:22:32.79983+07:00","level":"INFO","msg":"stream: closed","id":"sioxl9g7"}

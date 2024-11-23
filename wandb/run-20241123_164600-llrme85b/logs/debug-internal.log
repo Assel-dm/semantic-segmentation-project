@@ -1,0 +1,23 @@
+{"time":"2024-11-23T16:46:00.6393218+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-23T16:46:00.640465+07:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\axelf\\Documents\\HUST\\Deep Learning\\semantic-segmentation-project\\wandb\\run-20241123_164600-llrme85b\\logs\\debug-core.log"}
+{"time":"2024-11-23T16:46:00.7935991+07:00","level":"INFO","msg":"created new stream","id":"llrme85b"}
+{"time":"2024-11-23T16:46:00.7941984+07:00","level":"INFO","msg":"stream: started","id":"llrme85b"}
+{"time":"2024-11-23T16:46:00.7941984+07:00","level":"INFO","msg":"sender: started","stream_id":"llrme85b"}
+{"time":"2024-11-23T16:46:00.7941984+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"llrme85b"}
+{"time":"2024-11-23T16:46:00.7941984+07:00","level":"INFO","msg":"handler: started","stream_id":"llrme85b"}
+{"time":"2024-11-23T16:46:01.1900158+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T16:46:51.1908078+07:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2024-11-23T16:46:51.2114067+07:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 72092"}
+{"time":"2024-11-23T17:06:52.1562249+07:00","level":"INFO","msg":"stream: closing","id":"llrme85b"}
+{"time":"2024-11-23T17:06:52.1563544+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T17:06:52.1850249+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T17:06:52.9922699+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-23T17:06:52.9922699+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-23T17:06:52.9922699+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-23T17:06:54.2414882+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T17:06:54.5293843+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/llrme85b/file_stream"}
+{"time":"2024-11-23T17:06:57.1014583+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/llrme85b/file_stream"}
+{"time":"2024-11-23T17:07:01.7467691+07:00","level":"INFO","msg":"handler: closed","stream_id":"llrme85b"}
+{"time":"2024-11-23T17:07:01.7470434+07:00","level":"INFO","msg":"sender: closed","stream_id":"llrme85b"}
+{"time":"2024-11-23T17:07:01.7467691+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"llrme85b"}
+{"time":"2024-11-23T17:07:01.752849+07:00","level":"INFO","msg":"stream: closed","id":"llrme85b"}

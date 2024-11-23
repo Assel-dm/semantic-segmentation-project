@@ -1,0 +1,25 @@
+{"time":"2024-11-23T17:33:53.3583852+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-23T17:33:53.3583852+07:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\axelf\\Documents\\HUST\\Deep Learning\\semantic-segmentation-project\\wandb\\run-20241123_173353-3b0ubwfl\\logs\\debug-core.log"}
+{"time":"2024-11-23T17:33:53.5070051+07:00","level":"INFO","msg":"created new stream","id":"3b0ubwfl"}
+{"time":"2024-11-23T17:33:53.5070051+07:00","level":"INFO","msg":"stream: started","id":"3b0ubwfl"}
+{"time":"2024-11-23T17:33:53.5070051+07:00","level":"INFO","msg":"sender: started","stream_id":"3b0ubwfl"}
+{"time":"2024-11-23T17:33:53.5070051+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"3b0ubwfl"}
+{"time":"2024-11-23T17:33:53.5070051+07:00","level":"INFO","msg":"handler: started","stream_id":"3b0ubwfl"}
+{"time":"2024-11-23T17:33:53.9346162+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T17:37:33.9556427+07:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 70776"}
+{"time":"2024-11-23T17:37:43.9360031+07:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2024-11-23T18:22:08.7088542+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/3b0ubwfl/file_stream"}
+{"time":"2024-11-23T18:22:11.4400497+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/3b0ubwfl/file_stream"}
+{"time":"2024-11-23T18:22:23.6662001+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/3b0ubwfl/file_stream"}
+{"time":"2024-11-23T18:22:26.105739+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/3b0ubwfl/file_stream"}
+{"time":"2024-11-23T18:22:30.5468388+07:00","level":"INFO","msg":"stream: closing","id":"3b0ubwfl"}
+{"time":"2024-11-23T18:22:30.5468388+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T18:22:30.5600194+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T18:22:31.1064357+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-23T18:22:31.1064357+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-23T18:22:31.1064357+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-23T18:22:32.0153771+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T18:22:32.8856161+07:00","level":"INFO","msg":"handler: closed","stream_id":"3b0ubwfl"}
+{"time":"2024-11-23T18:22:32.8856161+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"3b0ubwfl"}
+{"time":"2024-11-23T18:22:32.8856161+07:00","level":"INFO","msg":"sender: closed","stream_id":"3b0ubwfl"}
+{"time":"2024-11-23T18:22:32.887257+07:00","level":"INFO","msg":"stream: closed","id":"3b0ubwfl"}

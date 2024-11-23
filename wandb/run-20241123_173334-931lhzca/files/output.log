@@ -1,0 +1,32 @@
+Sample image paths: ['data/train\\0081835cf877e004e8bfb905b78a9139.jpeg', 'data/train\\00d827b8bcf15050fb9af0ef92846b60.jpeg', 'data/train\\00f9b6c911c4aa179344271fa54aa1b2.jpeg', 'data/train\\00fd197cd955fa095f978455cef3593c.jpeg', 'data/train\\01c13a3d810b000db55759486b8aa1b8.jpeg']
+Sample mask paths: ['data/train_gt\\0081835cf877e004e8bfb905b78a9139.jpeg', 'data/train_gt\\00d827b8bcf15050fb9af0ef92846b60.jpeg', 'data/train_gt\\00f9b6c911c4aa179344271fa54aa1b2.jpeg', 'data/train_gt\\00fd197cd955fa095f978455cef3593c.jpeg', 'data/train_gt\\01c13a3d810b000db55759486b8aa1b8.jpeg']
+Epoch 1/10, Train Loss: 0.3918
+Validation Loss: 0.2600
+Saved best model at epoch 1 with validation loss: 0.2600
+Epoch 2/10, Train Loss: 0.2133
+Validation Loss: 0.1784
+Saved best model at epoch 2 with validation loss: 0.1784
+Epoch 3/10, Train Loss: 0.1520
+Validation Loss: 0.1332
+Saved best model at epoch 3 with validation loss: 0.1332
+Epoch 4/10, Train Loss: 0.1176
+Validation Loss: 0.1088
+Saved best model at epoch 4 with validation loss: 0.1088
+Epoch 5/10, Train Loss: 0.0954
+Validation Loss: 0.0913
+Saved best model at epoch 5 with validation loss: 0.0913
+Epoch 6/10, Train Loss: 0.0817
+Validation Loss: 0.0807
+Saved best model at epoch 6 with validation loss: 0.0807
+Epoch 7/10, Train Loss: 0.0720
+Validation Loss: 0.0714
+Saved best model at epoch 7 with validation loss: 0.0714
+Epoch 8/10, Train Loss: 0.0648
+Validation Loss: 0.0659
+Saved best model at epoch 8 with validation loss: 0.0659
+Epoch 9/10, Train Loss: 0.0591
+Validation Loss: 0.0627
+Saved best model at epoch 9 with validation loss: 0.0627
+Epoch 10/10, Train Loss: 0.0552
+Validation Loss: 0.0583
+Saved best model at epoch 10 with validation loss: 0.0583

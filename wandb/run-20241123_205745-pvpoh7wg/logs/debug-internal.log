@@ -1,0 +1,63 @@
+{"time":"2024-11-23T20:57:45.0922641+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-23T20:57:45.0922641+07:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\axelf\\Documents\\HUST\\Deep Learning\\semantic-segmentation-project\\wandb\\run-20241123_205745-pvpoh7wg\\logs\\debug-core.log"}
+{"time":"2024-11-23T20:57:45.3372526+07:00","level":"INFO","msg":"created new stream","id":"pvpoh7wg"}
+{"time":"2024-11-23T20:57:45.3372526+07:00","level":"INFO","msg":"stream: started","id":"pvpoh7wg"}
+{"time":"2024-11-23T20:57:45.3373381+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"pvpoh7wg"}
+{"time":"2024-11-23T20:57:45.3373381+07:00","level":"INFO","msg":"handler: started","stream_id":"pvpoh7wg"}
+{"time":"2024-11-23T20:57:45.3373381+07:00","level":"INFO","msg":"sender: started","stream_id":"pvpoh7wg"}
+{"time":"2024-11-23T20:57:45.8906933+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T20:58:32.2270447+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:58:34.7825937+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:58:39.7729153+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:58:49.2393326+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:58:51.5912009+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:58:56.7960087+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:59:32.1383257+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:59:34.4759766+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:59:39.4000626+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:59:48.1398396+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:59:50.7024394+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T20:59:55.7163637+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:00:55.8912719+07:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2024-11-23T21:00:55.923915+07:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 25760"}
+{"time":"2024-11-23T21:01:12.8794676+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:01:17.09425+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:01:19.5423934+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:01:29.6170783+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:01:38.5033481+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:01:56.9242304+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:02:36.7607381+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:03:37.30718+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:04:37.6615734+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:05:38.0095807+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:06:38.3100304+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:07:38.6629595+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:08:39.23999+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:09:39.5743018+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:10:39.9321504+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:11:40.3119758+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:12:40.9564278+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:13:41.3142365+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:14:41.7794871+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:15:42.0805226+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:16:42.5329242+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:17:42.8290516+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:19:08.3245628+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:20:08.6603511+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:21:08.967252+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:22:09.2907395+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:23:10.2581663+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:24:11.5542943+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:25:12.1506551+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:25:58.8021935+07:00","level":"INFO","msg":"stream: closing","id":"pvpoh7wg"}
+{"time":"2024-11-23T21:25:58.8021935+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T21:25:58.903768+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T21:26:09.8308074+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-23T21:26:09.8308074+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-23T21:26:09.8308074+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-23T21:26:20.3042711+07:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/pvpoh7wg/file_stream"}
+{"time":"2024-11-23T21:26:23.5011509+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T21:27:21.1612335+07:00","level":"INFO","msg":"handler: closed","stream_id":"pvpoh7wg"}
+{"time":"2024-11-23T21:27:21.1613285+07:00","level":"INFO","msg":"sender: closed","stream_id":"pvpoh7wg"}
+{"time":"2024-11-23T21:27:21.1613285+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pvpoh7wg"}
+{"time":"2024-11-23T21:27:21.1645486+07:00","level":"INFO","msg":"stream: closed","id":"pvpoh7wg"}

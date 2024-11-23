@@ -1,0 +1,19 @@
+{"time":"2024-11-23T18:22:03.8246032+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-23T18:22:03.8246032+07:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\axelf\\Documents\\HUST\\Deep Learning\\semantic-segmentation-project\\wandb\\run-20241123_182203-h20vn642\\logs\\debug-core.log"}
+{"time":"2024-11-23T18:22:03.9871661+07:00","level":"INFO","msg":"created new stream","id":"h20vn642"}
+{"time":"2024-11-23T18:22:03.9871661+07:00","level":"INFO","msg":"stream: started","id":"h20vn642"}
+{"time":"2024-11-23T18:22:03.9871661+07:00","level":"INFO","msg":"sender: started","stream_id":"h20vn642"}
+{"time":"2024-11-23T18:22:03.9871661+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"h20vn642"}
+{"time":"2024-11-23T18:22:03.9871661+07:00","level":"INFO","msg":"handler: started","stream_id":"h20vn642"}
+{"time":"2024-11-23T18:22:05.1579886+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T18:22:30.5600194+07:00","level":"INFO","msg":"stream: closing","id":"h20vn642"}
+{"time":"2024-11-23T18:22:30.5600194+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T18:22:30.6017817+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T18:22:31.104846+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-23T18:22:31.104846+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-23T18:22:31.104846+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-23T18:22:32.4849496+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T18:22:32.9686442+07:00","level":"INFO","msg":"handler: closed","stream_id":"h20vn642"}
+{"time":"2024-11-23T18:22:32.9686442+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"h20vn642"}
+{"time":"2024-11-23T18:22:32.9686442+07:00","level":"INFO","msg":"sender: closed","stream_id":"h20vn642"}
+{"time":"2024-11-23T18:22:32.9691497+07:00","level":"INFO","msg":"stream: closed","id":"h20vn642"}

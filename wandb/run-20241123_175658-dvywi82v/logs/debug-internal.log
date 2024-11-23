@@ -1,0 +1,22 @@
+{"time":"2024-11-23T17:56:58.1218369+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-23T17:56:58.1218369+07:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\axelf\\Documents\\HUST\\Deep Learning\\semantic-segmentation-project\\wandb\\run-20241123_175658-dvywi82v\\logs\\debug-core.log"}
+{"time":"2024-11-23T17:56:58.2635058+07:00","level":"INFO","msg":"created new stream","id":"dvywi82v"}
+{"time":"2024-11-23T17:56:58.2635058+07:00","level":"INFO","msg":"stream: started","id":"dvywi82v"}
+{"time":"2024-11-23T17:56:58.2635058+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"dvywi82v"}
+{"time":"2024-11-23T17:56:58.2635058+07:00","level":"INFO","msg":"handler: started","stream_id":"dvywi82v"}
+{"time":"2024-11-23T17:56:58.2635058+07:00","level":"INFO","msg":"sender: started","stream_id":"dvywi82v"}
+{"time":"2024-11-23T17:56:58.6402312+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-23T17:57:58.6408326+07:00","level":"ERROR","msg":"monitor: memory: error sampling metrics: The parameter is incorrect."}
+{"time":"2024-11-23T17:57:58.6619013+07:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: could not get CreationDate: The parameter is incorrect.\ncouldn't find pid: 60856"}
+{"time":"2024-11-23T18:07:09.3079352+07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/axelfou45-hanoi-university-of-science-and-technology/semantic-segmentation/dvywi82v/file_stream\": read tcp 192.168.1.50:56434->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2024-11-23T18:22:30.5495127+07:00","level":"INFO","msg":"stream: closing","id":"dvywi82v"}
+{"time":"2024-11-23T18:22:30.5509805+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-23T18:22:30.5582063+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-23T18:22:31.1064357+07:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-23T18:22:31.1064357+07:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-23T18:22:31.1064357+07:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-23T18:22:31.8845974+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-23T18:22:32.7606004+07:00","level":"INFO","msg":"handler: closed","stream_id":"dvywi82v"}
+{"time":"2024-11-23T18:22:32.7606004+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dvywi82v"}
+{"time":"2024-11-23T18:22:32.7606004+07:00","level":"INFO","msg":"sender: closed","stream_id":"dvywi82v"}
+{"time":"2024-11-23T18:22:32.7617256+07:00","level":"INFO","msg":"stream: closed","id":"dvywi82v"}

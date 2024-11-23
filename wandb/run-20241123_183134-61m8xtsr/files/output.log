@@ -1,0 +1,2 @@
+usage: infer.py [-h] [--output_folder OUTPUT_FOLDER] input_folder
+infer.py: error: the following arguments are required: input_folder
